@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 82.209 s <<< FAILURE! - in TestSuite
+Academy.HomePage.basePageNavigation[invaliduser@gmail.com, invalidpass, InValid User](2)  Time elapsed: 9.333 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='NO THANKS']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0-beta-4', revision: '29f46d02dd'
+System info: host: 'DESKTOP-HDLVG1F', ip: '192.168.153.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [47a0b9069f2d3864d13dd2f05d8ef077, findElement {using=xpath, value=//button[text()='NO THANKS']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\SERVER\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64631}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64631/devtoo..., se:cdpVersion: 91.0.4472.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 47a0b9069f2d3864d13dd2f05d8ef077
+	at Academy.HomePage.basePageNavigation(HomePage.java:49)
+

@@ -1,0 +1,7 @@
+23:36:15.865 [TestNG-tests-3] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x7258b0800d256d3e
+23:36:16.076 [TestNG-tests-3] INFO  resources.base - Driver is initialized
+23:36:22.896 [TestNG-tests-1] INFO  resources.base - URL loaded
+23:36:23.219 [TestNG-tests-3] INFO  resources.base - URL opened
+23:36:26.652 [TestNG-tests-2] INFO  resources.base - URL loaded
+23:36:32.760 [TestNG-tests-3] INFO  resources.base - URL opened
+23:36:36.832 [TestNG-tests-2] INFO  resources.base - Succesfully validated the text

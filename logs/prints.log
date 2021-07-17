@@ -1,0 +1,4 @@
+20:47:58.443 [main] INFO  resources.base - URL loaded
+20:48:08.656 [main] INFO  resources.base - Succesfully validated the text
+20:48:13.485 [AsyncHttpClient-1-3] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
+20:48:13.485 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
